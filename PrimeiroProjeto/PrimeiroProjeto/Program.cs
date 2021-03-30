@@ -8,6 +8,7 @@ namespace PrimeiroProjeto
         {
             Console.WriteLine("Olá Mundo");
             Console.WriteLine("Hello World");
+            Console.WriteLine("Teste");
         }
     }
 }
