@@ -25,7 +25,7 @@ namespace EstoqueTV
 
             Console.Write("\nDados Atualizados: " + p);
 
-            Console.Write("\n\nDigite o número de produtos a ser adicionado ao estoque: ");
+            Console.Write("\n\nDigite o número de produtos a ser removido do estoque: ");
             qte = int.Parse(Console.ReadLine());
             p.RemoverProdutos(qte);
 
