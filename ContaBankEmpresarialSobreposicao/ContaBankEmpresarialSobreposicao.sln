@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaBankEmpresarialSobreposicao", "ContaBankEmpresarialSobreposicao\ContaBankEmpresarialSobreposicao.csproj", "{52D83EA6-ABF3-4CC0-8D4B-1864F8B1294B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D83EA6-ABF3-4CC0-8D4B-1864F8B1294B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D83EA6-ABF3-4CC0-8D4B-1864F8B1294B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D83EA6-ABF3-4CC0-8D4B-1864F8B1294B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D83EA6-ABF3-4CC0-8D4B-1864F8B1294B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3F508F-2D4B-496A-BD66-D7CC5570735E}
+	EndGlobalSection
+EndGlobal

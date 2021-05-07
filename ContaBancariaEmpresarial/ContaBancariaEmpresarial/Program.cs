@@ -22,7 +22,7 @@ namespace ContaBancariaEmpresarial
             acc4.Loan(100.0);
 
             //BusinessAccount acc5 = (BusinessAccount)acc3;
-            if(acc3 is BusinessAccount)
+            if (acc3 is BusinessAccount)
             {
                 //BusinessAccount acc5 = (BusinessAccount)acc3;
                 BusinessAccount acc5 = acc3 as BusinessAccount;
@@ -30,7 +30,7 @@ namespace ContaBancariaEmpresarial
                 Console.WriteLine("Loan!");
             }
 
-            if(acc3 is SavingsAccount)
+            if (acc3 is SavingsAccount)
             {
                 //SavingsAccount acc5 = acc3 as SavingsAccount;
                 SavingsAccount acc5 = (SavingsAccount)acc3;
