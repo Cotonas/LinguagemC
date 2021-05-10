@@ -20,7 +20,8 @@
         }
 
         //Após utilização do virtual basta colocar a lógica a ser seguida.
-        public override void Withdraw(double amount)
+        //A palavra "sealed" impede que outra classe herde a função.
+        public sealed override void Withdraw(double amount)
         {
             //a palavra "base" chama a implementação da superclasse.
             base.Withdraw(amount);
